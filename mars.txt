@@ -5,3 +5,4 @@ second time modification
 Venus as a base
 test add multiple planets
 without a option
+add remote repository edit
